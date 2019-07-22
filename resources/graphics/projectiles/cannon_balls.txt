@@ -1,0 +1,14 @@
+Normal: just a regular cannonball that breaks a block or two on impact. 
+-normal.png
+
+Blank Ball: Adam's face in ball form, explodes in midair and rains down late tokens.(Heavy)(Light)
+-face.png -late_token.png
+
+Bouncy Ball: has high elasticity and bounces a few times destroying blocks. (Light)
+-bouncy.png
+
+Anti_Gravity Ball: flies without being effected by gravity. (Very Light)
+-bullet_bill.png
+
+Heavy Ball: does more than one damage to a block (3?), takes more power to shoot as far because its heavy
+-spike.png

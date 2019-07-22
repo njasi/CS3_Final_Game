@@ -1,0 +1,7 @@
+#!/bin/bash
+echo Which port to use?
+read port
+./bin/castlebreaker server $port "resources//levels//first.txt" &
+gnome-terminal -- bash -c './bin/castlebreaker client 127.0.1.1 '$port \
+'"resources//levels//first.txt"'
+

@@ -1,0 +1,4 @@
+3
+destroy_stage_3.png 1 0 0 0
+destroy_stage_6.png 2 0 0 0
+destroy_stage_9.png 3 0 0 0
